@@ -15,7 +15,7 @@ File Swiper is a Python desktop application that allows users to quickly review 
 
 - Python 3.6+
 - PyQt5
-- send2trash
+- winshell
 
 ## Installation
 
@@ -23,7 +23,13 @@ File Swiper is a Python desktop application that allows users to quickly review 
 2. Install the required packages:
 
 ```
-pip install PyQt5 send2trash
+pip install PyQt5 winshell PyQt5-sip PyMuPDF python-docx
+```
+
+OR
+
+```
+pip install -r requirements.txt
 ```
 
 ## Usage

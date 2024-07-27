@@ -1,0 +1,6 @@
+PyQT5
+winshell
+PyQt5-sip
+PyMuPDF
+python-docx
+pandas
