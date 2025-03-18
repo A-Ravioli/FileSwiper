@@ -1,6 +1,6 @@
-PyQT5
-winshell
-PyQt5-sip
-PyMuPDF
-python-docx
-pandas
+PyQt5==5.15.9
+PyMuPDF==1.23.8
+python-docx==0.8.11
+pandas==2.1.4
+winshell==0.6
+openpyxl==3.1.2
